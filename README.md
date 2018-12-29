@@ -9,7 +9,11 @@ autobackup tool for backup pfsense firewall router from linux computer to git re
 4) setup your variables(admin,password...) to index.sh,
 4) chmod +x index.sh
 6)	configure your crontab (add line *	*/2	*	*	* /dir-where-it-is/index.sh)
+7) Profit!
 
+
+pfsense-backup.py from here:
+https://github.com/edgauthier/pfsense-backup
 
 
 
