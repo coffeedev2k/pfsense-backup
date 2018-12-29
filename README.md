@@ -1,6 +1,7 @@
 pfsense autobackup
 
 autobackup tool for backup pfsense firewall router from linux computer to git repository
+this script get config(or many configs) from your pfsense and autocommit it to your security repository
 
 0) requirments: git(apt-get install git), pip(apt-get install pip),python(apt-get install python) BeautifulSoup4(pip install BeautifulSoup4)
 1)	create git repo with your own security requirements
